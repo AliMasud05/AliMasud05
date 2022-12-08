@@ -5,6 +5,10 @@
 
 I am an expert on React Developing. Also, I have gathered vast knowledge about using coding, designing, markup languages and other things that are related to this sector. I am always updated with new string of coding and browser compatibility. I love learning and implementing according to time.
 
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning REACT 
+- 💬 Ask me about React Development 
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
@@ -15,12 +19,7 @@ I am an expert on React Developing. Also, I have gathered vast knowledge about u
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
 </div>
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning REACT 
-- 💬 Ask me about React Development 
-
-
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/morshed-masud-60b152208/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
