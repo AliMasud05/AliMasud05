@@ -20,7 +20,7 @@ I am an expert on React Developing. Also, I have gathered vast knowledge about u
 - 💬 Ask me about React Development 
 
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/morshed-masud-60b152208/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
