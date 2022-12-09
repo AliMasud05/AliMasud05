@@ -1,5 +1,5 @@
-###![Web Developer ]
-<img style="width:full" src="https://i.ibb.co/gzjCLZs/web-developer.png"  alt="javascript logo"  />
+
+<img style="width:100%" src="https://i.ibb.co/gzjCLZs/web-developer.png"  alt="javascript logo"  />
 ### Hi there 👋, I'm Morshed Ali
 #### Web Developer 
 
