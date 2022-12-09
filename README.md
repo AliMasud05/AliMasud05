@@ -1,5 +1,5 @@
-###![Web Developer ](https://i.ibb.co/gzjCLZs/web-developer.png)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+###![Web Developer ]
+<img src="https://i.ibb.co/gzjCLZs/web-developer.png" height="40" width="52" alt="javascript logo"  />
 ### Hi there 👋, I'm Morshed Ali
 #### Web Developer 
 
